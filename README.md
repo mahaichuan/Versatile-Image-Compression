@@ -11,10 +11,10 @@ TO DO
 
 2020.8.31 Provide the inference code and pre-trained models for multi-model lossy compression.
 
-## **Quick Test**
+## **How To Test**
 
 ### **Dependencies**
 
 ### **Test models**
 
-## **Training your own model**
+## **How To Train**
