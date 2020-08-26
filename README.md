@@ -1,3 +1,6 @@
 # Versatile-Image-Compression
-Lossy compression; Variable rate compresson; Lossless compression; 
-This is the official implementation of the paper “End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform”.
+By Hiaichuan Ma, Dong Liu, Ning Yan
+
+This repo provides the official implementation of the paper "End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform".
+
+
