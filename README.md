@@ -17,4 +17,4 @@ TO DO
 
 ### **Test models**
 
-### **Training**
+## **Training your own model**
