@@ -9,7 +9,7 @@ TO DO
 
 ## **Update Notes**
 
-2020.8.31 Provide the inference code and pre-trained models for multi-model lossy compression.
+2020.8.26 Init this repo.
 
 ## **How To Test**
 
