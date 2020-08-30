@@ -1,5 +1,5 @@
 # Versatile-Image-Compression
-By Hiaichuan Ma, Dong Liu, Ning Yan
+By Hiaichuan Ma, Dong Liu
 
 This repo provides the official implementation of the paper "xxx".
 
