@@ -1,7 +1,7 @@
 # Versatile-Image-Compression
-By Hiaichuan Ma, Dong Liu
 
 This repo provides the official implementation of the paper "iWave++".
+By Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
 ## **BibTeX**
 
