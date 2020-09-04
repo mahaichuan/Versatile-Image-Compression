@@ -26,3 +26,4 @@ TO DO
 
 
 ## **Results**
+![image](https://github.com/mahaichuan/Versatile-Image-Compression/blob/master/figs/Kodak.PNG)
