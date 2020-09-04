@@ -28,7 +28,7 @@ TO DO
 
 ## **Results**
 
-For more information, please refer to the paper.
+iWave++ outperforms [Joint](http://papers.nips.cc/paper/8275-joint-autoregressive-and-hierarchical-priors-for-learned-image-compression), [Variational](https://arxiv.org/abs/1802.01436), and [iWave](https://ieeexplore.ieee.org/abstract/document/8931632). For more information, please refer to the paper.
 
 1. RGB PSNR on Kodak dataset.
 
