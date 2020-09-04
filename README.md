@@ -14,7 +14,7 @@ TO DO
 2020.8.26 Init this repo.
 
 ## **How To Test**
-0. Dependencies. We test with MIT deepo 
+0. Dependencies. We test with MIT deepo docker image.
 
 1. Clone this github repo.
 
