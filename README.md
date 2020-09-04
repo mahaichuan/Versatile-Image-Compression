@@ -14,6 +14,8 @@ TO DO
 2020.8.26 Init this repo.
 
 ## **How To Test**
+0. Dependencies. We test with MIT deepo 
+
 1. Clone this github repo.
 
 2. Place Test images. (The code now only supports images whose border length is a multiple of 16. However, it is very simple to support arbitrary boundary lengths by padding.)
@@ -22,10 +24,5 @@ TO DO
 
 4. python main_testRGB.py. (The path in main_testRGB.py needs to be modified. Please refer to the code.)
 
-### **Dependencies**
-We test with MIT deepo 
-### **Test models**
-
-## **How To Train**
 
 ## **Results**
