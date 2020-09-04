@@ -20,7 +20,7 @@ TO DO
 
 2. Place Test images. (The code now only supports images whose border length is a multiple of 16. However, it is very simple to support arbitrary boundary lengths by padding.)
 
-3. Download models. See **Model** folder.
+3. Download models. See **model** folder.
 
 4. python main_testRGB.py. (The path in main_testRGB.py needs to be modified. Please refer to the code.)
 
