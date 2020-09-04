@@ -27,8 +27,13 @@ TO DO
 
 
 ## **Results**
+
+For more information, please refer to the paper.
+
 1. RGB PSNR on Kodak dataset.
+
 ![image](https://github.com/mahaichuan/Versatile-Image-Compression/blob/master/figs/Kodak.PNG)
 
 2. RGB PSNR on Tecnick dataset.
+
 ![image](https://github.com/mahaichuan/Versatile-Image-Compression/blob/master/figs/Tecnick.PNG)
