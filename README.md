@@ -2,7 +2,9 @@
 
 This repo provides the official implementation of "[iWave++](https://ieeexplore.ieee.org/document/9204799)".
 
-By Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
+Accepted by IEEE TPAMI.
+
+Author: Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
 ## **BibTeX**
 
