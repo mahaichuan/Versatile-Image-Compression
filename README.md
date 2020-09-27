@@ -1,6 +1,6 @@
 # Versatile-Image-Compression
 
-This repo provides the official implementation of "iWave++".
+This repo provides the official implementation of "[iWave++](https://ieeexplore.ieee.org/document/9204799)".
 
 By Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
