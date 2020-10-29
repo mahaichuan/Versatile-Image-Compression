@@ -1,6 +1,6 @@
 # Versatile-Image-Compression
 
-This repo provides the official implementation of "[iWave++](https://ieeexplore.ieee.org/document/9204799)".
+This repo provides the official implementation of "[End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform](https://ieeexplore.ieee.org/document/9204799)".
 
 Accepted by IEEE TPAMI.
 
@@ -8,7 +8,13 @@ Author: Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
 ## **BibTeX**
 
-TO DO
+@article{ma2020end,
+  title={End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform},
+  author={Ma, Haichuan and Liu, Dong and Yan, Ning and Li, Houqiang and Wu, Feng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  publisher={IEEE}
+}
 
 ## **Update Notes**
 
