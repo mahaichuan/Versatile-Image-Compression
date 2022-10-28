@@ -1,6 +1,6 @@
 # Versatile-Image-Compression
 
-·NOTE: A new pytorch implementation of iWave++ has been released at (https://gitlab.com/iWave/iwave), including training and testing code, and pre-trained models. This pytorch implementation is also used as the reference software for IEEE 1857.11 Standard for Neural Network-Based Image Coding.·
+*NOTE:  A new pytorch implementation of iWave++ has been released at (https://gitlab.com/iWave/iwave), including training and testing code, and pre-trained models. This pytorch implementation is also used as the reference software for IEEE 1857.11 Standard for Neural Network-Based Image Coding.*
 
 This repo provides the official implementation of "[End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform](https://ieeexplore.ieee.org/document/9204799)".
 
@@ -20,7 +20,7 @@ Author: Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
 ## **Update Notes**
 
-2022.10.28 iWave++ has been accepted as one of the three reference softwares for IEEE 1857.11 Standard for Neural Network-Based Image Coding. Pytorch code (including both training and testing code) and pre-trained models can be found at (https://gitlab.com/iWave/iwave). To further improve compression performance, a series of improvements (such as an enhanced context model and an enhanced de-quant model) have been introduced in the new pytorch implementation compared to the original tensorflow version.
+2022.10.28  iWave++ has been accepted as one of the three reference softwares for IEEE 1857.11 Standard for Neural Network-Based Image Coding. Pytorch code (including both training and testing code) and pre-trained models can be found at (https://gitlab.com/iWave/iwave). To further improve compression performance, a series of improvements (such as an enhanced context model and an enhanced de-quant model) have been introduced in the new pytorch implementation compared to the original tensorflow version.
 
 2020.9.4  Upload code and models of **Lossy multi-model iWave++**.
 
