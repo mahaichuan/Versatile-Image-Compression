@@ -18,6 +18,8 @@ Author: Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu
 
 ## **Update Notes**
 
+2022.10.28 iWave++ has been accepted as one of the three reference softwares for IEEE 1857.11 Standard for Neural Network-Based Image Coding. Pytorch code (including both training and testing code) and pre-trained models can be found at (https://gitlab.com/iWave/iwave). To further improve compression performance, a series of improvements (such as an enhanced context model and an enhanced de-quant model) have been introduced in the new pytorch implementation compared to the original tensorflow version.
+
 2020.9.4  Upload code and models of **Lossy multi-model iWave++**.
 
 2020.8.26 Init this repo.
