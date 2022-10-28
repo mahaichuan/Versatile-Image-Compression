@@ -1,5 +1,7 @@
 # Versatile-Image-Compression
 
+·NOTE: A new pytorch implementation of iWave++ has been released at (https://gitlab.com/iWave/iwave), including training and testing code, and pre-trained models. This pytorch implementation is also used as the reference software for IEEE 1857.11 Standard for Neural Network-Based Image Coding.·
+
 This repo provides the official implementation of "[End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform](https://ieeexplore.ieee.org/document/9204799)".
 
 Accepted by IEEE TPAMI.
